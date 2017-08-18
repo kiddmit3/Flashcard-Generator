@@ -1,0 +1,23 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "dependencies": {
+    "inquirer": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiddmit3/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiddmit3/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/kiddmit3/Flashcard-Generator#readme"
+}
